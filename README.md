@@ -1,3 +1,8 @@
+## Prueba técnica Frontend, Baobab soluciones
+
+# Candidato y autor: Adrian García Requena
+
+
 # Aplicación de Notas
 
 Esta es una aplicación web de notas que permite a los usuarios escribir, guardar, editar y eliminar notas. Las notas se pueden categorizar y cada categoría tiene un color diferente. 
@@ -14,6 +19,7 @@ Esta es una aplicación web de notas que permite a los usuarios escribir, guarda
 - Tailwind CSS
 - Chart.js
 - Local Storage
+- Vercel (para el despliegue)
 
 ## Cómo Ejecutar el Proyecto
 
@@ -22,20 +28,32 @@ Asegúrate de tener Node.js y npm instalados. Puedes descargarlos e instalarlos 
 
 ### Instalación
 
-1. Clona el repositorio:
-    sh
-    git clone https://github.com/tu-usuario/notas-app.git
+1. Clona el repositorio: 
+
+    git clone https://github.com/AdrianGReq/notas-app.git
     cd notas-app
     
 
 2. Instala las dependencias:
-    sh
+
     npm install
-    
+
 
 3. Inicia el servidor de desarrollo:
-    sh
+   
     npm start
     
 
 4. Abre tu navegador y navega a http://localhost:3000 para ver la aplicación.
+
+
+## Despliegue
+
+La aplicación está desplegada en Vercel y puedes acceder a ella en el siguiente enlace:
+
+[Aplicación en vivo](https://notas-app.vercel.app)
+
+## Enlaces
+
+- [Repositorio en GitHub](https://github.com/AdrianGReq/notas-app)
+- [Aplicación en vivo en Vercel](https://notas-app.vercel.app)
