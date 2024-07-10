@@ -1,6 +1,6 @@
-## Prueba técnica Frontend, Baobab soluciones
+# Prueba técnica Frontend, Baobab soluciones
 
-# Candidato y autor: Adrian García Requena
+## Candidato y autor: Adrian García Requena
 
 
 # Aplicación de Notas
