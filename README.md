@@ -51,9 +51,9 @@ Asegúrate de tener Node.js y npm instalados. Puedes descargarlos e instalarlos 
 
 La aplicación está desplegada en Vercel y puedes acceder a ella en el siguiente enlace:
 
-[Aplicación en vivo](https://notas-app.vercel.app)
+[Aplicación en vivo en Vercel](https://notas-eb69afwnx-adriangreqs-projects.vercel.app/)
 
 ## Enlaces
 
 - [Repositorio en GitHub](https://github.com/AdrianGReq/notas-app)
-- [Aplicación en vivo en Vercel](https://notas-app.vercel.app)
+- [Aplicación en vivo en Vercel](https://notas-eb69afwnx-adriangreqs-projects.vercel.app/)
