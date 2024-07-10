@@ -4,9 +4,9 @@ const Note = ({ note, onEdit, onDelete }) => {
     const { id, title, content, category } = note;
 
     const categoryColors = {
-        personal: '#8eb8e5', // Aumentar la saturación de azul
+        personal: '#8eb8e5', 
         work: '#d3b8ae',
-        tasks: '#6cbf6f', // Aumentar la saturación de verde
+        tasks: '#6cbf6f', 
         other: '#d6b8db',
     };
 
